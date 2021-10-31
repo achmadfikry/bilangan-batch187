@@ -21,7 +21,7 @@ public class Soal1 {
 			}
 		}
 		
-		//3 cetak
+		//3 cetak 
 		for (int i = 0; i < ni; i++) {
 			for (int j = 0; j < nj; j++) {
 				System.out.printf("%3s",pola[i][j]);
